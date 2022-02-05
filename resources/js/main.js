@@ -1,5 +1,5 @@
 /*Main discord alert*/
-const delay = 10000;
+const delay = 5000;
 $('#discord').click(function(){
   $('.alert').addClass("show");
   $('.alert').removeClass("hide");
